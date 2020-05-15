@@ -1,4 +1,3 @@
 #Machine Learning - Linear Regression Model,
-#Jupyter Notebook
-Worked on cropslabel.csv and found the accuracy of the model,
-Even Preprocessing is done in the ipynb file
+Worked on cropslabel dataset and calculated the accuracy of the model.
+Preprocessing was also done for the above dataset
